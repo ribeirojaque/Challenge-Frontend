@@ -1,0 +1,1698 @@
+@media screen and (min-width: 361px){
+    body {
+        margin: 0 auto 0 auto;
+        position: relative;
+        width: 1440px;
+        height: 4134px;
+
+        font-family: "Inter";
+        font-style: normal;    
+    }
+
+    .head0, .head1 {
+        position: absolute;
+        width: 1440px;
+        height: 616px;
+        left: 0px;
+        top: 0px;
+    }
+
+    .head0 {    
+        background: linear-gradient(314.72deg, #C86DD7 -1.5%, #7E49C3 39.43%, #5912AC 86.02%);
+    }
+
+    .head1 {
+        background-image: url(resources/banner_image.png);
+        background-size: cover;
+        mix-blend-mode: overlay;
+        opacity: 0,2;
+    }
+
+    #logo_green {
+        position: absolute;
+        width: 48px;
+        height: 64px;
+        left: 20px;
+        top: 0px;
+    }
+
+    #our_story {
+        position: absolute;
+        height: 20px;
+        left: 30.62%;
+        right: 64.86%;
+        top: calc(50% - 20px/2 - 2029px);
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    #browse_shares {
+        position: absolute;
+        height: 20px;
+        left: 21.46%;
+        right: 71.6%;
+        top: calc(50% - 20px/2 - 2029px);
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .rounded_rectangle {
+        position: absolute;
+        left: 76.74%;
+        right: 7.01%;
+        top: 0.39%;
+        bottom: 98.55%;
+
+        background-color: #00C88C;
+        border-radius: 4px;
+    }
+
+    #become_a_nanny_share_host {
+        position: absolute;
+        height: 20px;
+        left: 78.26%;
+        right: 8.47%;
+        top: 16px;
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    #sign_in {
+        position: absolute;
+        height: 20px;
+        left: 94.58%;
+        right: 2.22%;
+        top: calc(50% - 20px/2 - 2029px);
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        text-align: center;
+
+        color: #FFFFFF; 
+    }
+
+    #create_your_nanny_share {
+        position: absolute;
+        position: absolute;
+        height: 20px;
+        left: 7.5%;
+        right: 80.76%;
+        top: calc(50% - 20px/2 - 2029px);
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        text-align: center;
+
+        color: #FFFFFF;    
+    }
+
+
+    #easily_create {
+        position: absolute;
+        left: 8.89%;
+        right: 57.08%;
+        top: 4.84%;
+        bottom: 92.84%;
+
+        font-weight: 500;
+        font-size: 40px;
+        line-height: 48px;
+
+        display: flex;
+        align-items: center;
+        letter-spacing: -1px;
+
+        color: #FFFFFF;
+    }
+
+    #hapu_is_Airbnb {
+        position: absolute;
+        left: 8.89%;
+        right: 50.56%;
+        top: 7.74%;
+        bottom: 91.1%;
+
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 24px;
+
+        color: #FFFFFF;
+    }
+
+    #play_icon {
+        position: absolute;
+        width: 48px;
+        height: 48px;
+        left: 128px;
+        top: 408px;
+    }
+
+    #See_hapu_seconds {
+        position: absolute;
+        height: 24px;
+        left: 13.33%;
+        right: 69.58%;
+        top: calc(50% - 24px/2 - 1634.55px);
+
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        text-decoration-line: underline;
+
+        color: #FFFFFF;
+    }
+
+    .banner_modal {
+        position: absolute;
+        width: 316px;
+        height: 290px;
+        left: 896px;
+        top: 170px;
+
+        background: url(resources/banner_modal.png);
+        background-size: cover;
+    }
+
+    .rectangle {
+        position: absolute;
+        width: 1440px;
+        height: 112px;
+        left: 0px;
+        top: 616px;
+
+        background-color: #FFFFFF;
+
+        border: 1px solid #DFDFDF;
+    }
+
+    #sarah_day_care {
+        position: absolute;
+        height: 24px;
+        left: 29.72%;
+        right: 45.21%;
+        top: calc(50% - 24px/2 - 1395px);
+
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        display: flex;
+        align-items: center;
+        text-decoration-line: underline;
+
+        color: #5E20A4;
+    }
+
+    #wednesday {
+        position: absolute;
+        height: 24px;
+        left: 54.93%;
+        right: 23.61%;
+        top: calc(50% - 24px/2 - 1395px);
+
+        font-family: "Helvetica Neue";
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        display: flex;
+        align-items: center;
+
+        color: #000000;
+    }
+
+    .sarah_profile {
+        position: absolute;
+        width: 56px;
+        height: 56px;
+        left: 340px;
+        top: 644px;
+
+        background: url(resources/sarah_profile.png);
+        background-size: cover;
+
+        border-radius: 4px solid #FFFFFF;
+
+        filter: drop-shadow(0px 1px 1px rgba(0, 0, 0, 0.2));
+    }
+
+    .nanny_share_macbook {
+        position: absolute;
+        width: 584px;
+        height: 392px;
+        left: 728px;
+        top: 848px;
+
+        background: url(resources/nanny_share_macbook.png);
+        background-size: cover;
+    }
+
+    #share_your_home {
+        position: absolute;
+        height: 64px;
+        left: 15.83%;
+        right: 54.38%;
+        top: calc(50% - 64px/2 - 1187px);
+
+        font-weight: 500;
+        font-size: 28px;
+        line-height: 32px;
+
+        color: #3D3D3D;
+    }
+
+    #you_have_a_fantastic_home {
+        position: absolute;
+        left: 15.83%;
+        right: 53.33%;
+        top: 23.03%;
+        bottom: 71.55%;
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        color: #3D3D3D;
+    }
+
+    #ready_to_get_started {
+        position: absolute;
+        height: 24px;
+        left: 15.83%;
+        right: 72.64%;
+        top: calc(50% - 24px/2 - 839px);
+
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        text-decoration-line: underline;
+
+        color: #5E20A4;
+        }
+
+    .divider1 {
+        position: absolute;
+        width: 784px;
+        height: 0px;
+        left: 328px;
+        top: 1360px;
+
+        border: 2px solid #DFDFDF;
+        background-color: #DFDFDF;
+    }
+
+    #are_you_a_parent {
+        position: absolute;
+        left: 15.83%;
+        right: 15.76%;
+        top: 34.45%;
+        bottom: 64.78%;
+
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 32px;
+
+        display: flex
+        align-items: center;
+        text-align: center;
+
+    }
+
+    #leave_us_your_name {
+        position: absolute;
+        left: 15.83%;
+        right: 15.83%;
+        top: 35.61%;
+        bottom: 63.81%;
+
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 24px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    .Input1 {
+        position: absolute;
+        left: 29.72%;
+        right: 54.17%;
+        top: 37.98%;
+        bottom: 60.86%;
+
+        background-color: #FFFFFF;
+
+        border: 1px solid #DFDFDF;
+        box-sizing: border-box;
+        border-radius: 4px;
+    }
+
+    #your_name {
+        position: absolute;
+        height: 2px;
+        width:inherit;
+        left: 31.11%;
+        right: 64.24%;
+        top: calc(50% - 20px/2 - 473px);
+
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+
+        display: flex;
+        align-items: center;
+
+        color: #3D3D3D;
+    }
+
+    .Input2 {
+        position: absolute;
+        left: 46.67%;
+        right: 37.22%;
+        top: 37.98%;
+        bottom: 60.86%;
+
+        background: #FFFFFF;
+
+        border: 1px solid #DFDFDF;
+        box-sizing: border-box;
+        border-radius: 4px;
+    }
+
+    .rounded_rectangle2 {
+        position: absolute;
+        left: 63.61%;
+        right: 29.72%;
+        top: 37.98%;
+        bottom: 60.86%;
+
+        background: #00C88C;
+        border-radius: 4px;
+    }
+
+    #send {
+        position: absolute;
+        height: 2px;
+        left: 65.76%;
+        right: 31.81%;
+        top: calc(50% - 20px/2 - 473px);
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .divider2 {
+        position: absolute;
+        width: 784px;
+        height: 0px;
+        left: 328px;
+        top: 1682px;
+
+        border: 2px solid #DFDFDF;
+        background-color: #DFDFDF;
+    }
+
+    #your_email {
+        position: absolute;
+        height: 2px;
+        width: inherit;
+        left: 48.06%;
+        right: 47.15%;
+        top: calc(50% - 20px/2 - 473px);
+
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+
+        display: flex;
+        align-items: center;
+
+        color: #3D3D3D;
+    }
+
+    .shared_payments {
+        position: absolute;
+        width: 456px;
+        height: 336px;
+        left: 228px;
+        top: 1778px;
+
+        background: url(resources/shared_payments.png);
+        background-size: cover;
+    }
+
+    #shared_payments_simple {
+        position: absolute;
+        height: 32px;
+        left: 50.56%;
+        right: 20.9%;
+        top: calc(50% - 32px/2 - 273px);
+
+        font-weight: 500;
+        font-size: 28px;
+        line-height: 32px;
+
+        display: flex;
+        align-items: center;
+
+        color: #3D3D3D;
+        }
+
+    #sometimes_it_is_hard {
+        position: absolute;
+        left: 50.56%;
+        right: 15.83%;
+        top: 44.75%;
+        bottom: 51.86%;
+
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        color: #3D3D3D;
+    }
+
+    #read_how_bridget’s_share {
+        position: absolute;
+        height: 24px;
+        left: 50.56%;
+        right: 19.24%;
+        top: calc(50% - 24px/2 - 25px);
+
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        text-decoration-line: underline;
+
+        color: #5E20A4;
+    }
+
+    .divider3 {
+        position: absolute;
+        width: 784px;
+        height: 0px;
+        left: 328px;
+        top: 2210px;
+
+        border: 2px solid #DFDFDF;
+        background-color: #DFDFDF;    
+        }
+
+    #a_framework_built {
+        position: absolute;
+        height: 32px;
+        left: 33.75%;
+        right: 33.68%;
+        top: calc(50% - 32px/2 + 255px);
+
+        font-weight: 500;
+        font-size: 28px;
+        line-height: 32px;
+
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #childcare_is_for_the_long_term {
+        position: absolute;
+        left: 22.78%;
+        right: 22.78%;
+        top: 57.52%;
+        bottom: 40.45%;
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+
+    }
+
+    #read_how_Hapu’s_tribal {
+        position: absolute;
+        height: 24px;
+        left: 36.32%;
+        right: 36.32%;
+        top: calc(50% - 24px/2 + 447px);
+
+
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-decoration-line: underline;
+
+        color: #5E20A4;
+    }
+
+    #billing_history {
+        position: absolute;
+        width: 984px;
+        height: 392px;
+        left: 228px;
+        top: 2590px;
+
+        background: url(resources/billing_history.png);
+        background-size: cover;
+    }
+
+    .divider4 {
+        position: absolute;
+        width: 784px;
+        height: 0px;
+        left: 328px;
+        top: 3086px;
+
+        border: 2px solid #DFDFDF;
+        background-color: #DFDFDF;
+    }
+
+    #coming_soon {
+        position: absolute;
+        height: 32px;
+        left: 33.68%;
+        right: 30.07%;
+        top: calc(50% - 32px/2 + 1267px);
+
+        font-weight: 500;
+        font-size: 28px;
+        line-height: 32px;
+
+        color: #3D3D3D;
+    }
+
+    #with_the_Hapu_daily_diary {
+        position: absolute;
+        left: 22.78%;
+        right: 22.78%;
+        top: 82%;
+        bottom: 15.97%;
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    .daily_diary {
+        position: absolute;
+        width: 216px;
+        height: 96px;
+        left: 612px;
+        top: 3182px;
+
+        background: url(resources/daily_diary.png);
+        background-size: cover;
+    }
+
+    .vector {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 86.94%;
+        bottom: 0%;
+
+        background-color: #FFFFFF;'
+    }
+
+    #become_a_nanny_share {
+        position: absolute;
+        height: 32px;
+        left: 37.15%;
+        right: 37.15%;
+        top: calc(50% - 32px/2 + 1623px);
+
+        font-weight: 500;
+        font-size: 28px;
+        line-height: 32px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #takes_less_than_5_minutes {
+        position: absolute;
+        height: 24px;
+        left: 38.12%;
+        right: 38.12%;
+        top: calc(50% - 24px/2 + 1667px);
+
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 24px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    .button {
+        position: absolute;
+        left: 39.44%;
+        right: 39.44%;
+        top: 91.39%;
+        bottom: 6.97%;
+
+        background: #5E20A4;
+        border-radius: 4px;
+    }
+
+    #calendar_icon {
+        position: absolute;
+        width: 32px;
+        height: 32px;
+        left: 592px;
+        top: 3796px;
+    }
+
+    #create_your_nanny_share2 {
+        position: absolute;
+        height: 2px;
+        left: 44.72%;
+        right: 42.01%;
+        top: calc(50% - 28px/2 + 1735px);
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        display: flex;
+        align-items: center;
+
+        color: #FFFFFF;
+    }
+
+    #takes_less_than_5_minutes2 {
+        position: absolute;
+        height: 1px;
+        left: 44.72%;
+        right: 45.07%;
+        top: calc(50% - 16px/2 + 1757px);
+
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 16px;
+
+        display: flex;
+        align-items: center;
+
+        color: #FFFFFF;
+    }
+
+    #or_browse_local_nanny-shares {
+        position: absolute;
+        height: 24px;
+        left: 42.08%;
+        right: 42.01%;
+        top: calc(50% - 24px/2 + 1815px);
+
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-decoration-line: underline;
+
+        color: #5E20A4;
+    }
+
+    #logo_gray {
+        position: absolute;
+        left: 8.89%;
+        right: 86.67%;
+        top: 96.13%;
+        bottom: 3.29%;
+    }
+
+    #share_your_nanny {
+        position: absolute;
+        left: 36.6%;
+        right: 55.07%;
+        top: 96.18%;
+        bottom: 3.34%;
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #our_story2 {
+        position: absolute;
+        left: 46.94%;
+        right: 48.54%;
+        top: 96.18%;
+        bottom: 3.34%;
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #blog {
+        position: absolute;
+        left: 53.54%;
+        right: 44.38%;
+        top: 96.18%;
+        bottom: 3.34%;
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #terms_privacy {
+        position: absolute;
+        left: 57.71%;
+        right: 34.79%;
+        top: 96.18%;
+        bottom: 3.34%;
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #face {
+        position: absolute;
+        width: 45px;
+        height: 45px;
+        left: 1145px;
+        top: 3966px;
+    }
+
+    #twitter {
+        position: absolute;
+        width: 45px;
+        height: 45px;
+        left: 1206px;
+        top: 3966px;
+    }
+
+    #insta {
+        position: absolute;
+        width: 45px;
+        height: 45px;
+        left: 1267px;
+        top: 3966px;
+    }
+
+    #Copyright {
+        position: absolute;
+        height: 16px;
+        left: 40px;
+        right: 39.72%;
+        top: calc(50% - 16px/2 + 2027px);
+
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 16px;
+
+        text-align: right;
+
+        color: #3D3D3D;
+        mix-blend-mode: normal;
+        opacity: 0.6;
+    }
+}
+
+@media screen and (max-width: 360px){
+    body {
+        margin: 0 auto 0 auto;
+        position: relative;
+        width: 360px;
+        height: 4364px;
+
+        font-family: "Inter";
+        font-style: normal;    
+    }
+
+    .head0, .head1 {
+        position: absolute;
+        width: 360px;
+        height: 540px;
+        left: 0px;
+        top: 0px;
+    }
+
+    .head0 {    
+        background: linear-gradient(314.72deg, #C86DD7 -1.5%, #7E49C3 39.43%, #5912AC 86.02%);
+    }
+
+    .head1 {
+        background-image: url(resources/banner_image.png);
+        background-size: cover;
+        mix-blend-mode: overlay;
+        opacity: 0,2;
+    }
+
+    #logo_green {
+        position: absolute;
+        width: 48px;
+        height: 64px;
+        left: 20px;
+        top: 0px;
+    }
+
+    .rounded_rectangle {
+        position: absolute;
+        left: 30.56%;
+        right: 4.44%;
+        top: 0.37%;
+        bottom: 98.63%;
+
+        background-color: #00C88C;
+        border-radius: 4px;
+    }
+
+    #become_a_nanny_share_host {
+        position: absolute;
+        height: 20px;
+        left: 36.67%;
+        right: 10.28%;
+        top: 16px;
+
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    #easily_create {
+        position: absolute;
+        left: 12.22%;
+        right: 12.22%;
+        top: 3.48%;
+        bottom: 94.32%;
+
+        font-weight: normal;
+        font-size: 28px;
+        line-height: 32px;
+
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    #hapu_is_Airbnb {
+        position: absolute;
+        left: 4.44%;
+        right: 4.44%;
+        top: 6.05%;
+        bottom: 92.03%;
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    #play_icon {
+        position: absolute;
+        width: 48px;
+        height: 48px;
+        left: 16px;
+        top: 414px;
+    }
+
+    #See_hapu_seconds {
+        position: absolute;
+        height: 24px;
+        left: 22.22%;
+        right: 9.44%;
+        top: calc(50% - 24px/2 - 1744px);
+
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        text-decoration-line: underline;
+
+        color: #FFFFFF;
+    }
+
+    .rectangle {
+        position: absolute;
+        width: 360px;
+        height: 216px;
+        left: 0px;
+        top: 540px;
+
+        background-color: #FFFFFF;
+
+        border: 1px solid #DFDFDF;
+    }
+
+    #sarah_day_care {
+        position: absolute;
+        height: 48px;
+        left: 20.56%;
+        right: 20.56%;
+        top: calc(50% - 48px/2 - 1514px);
+
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-decoration-line: underline;
+
+        color: #5E20A4;
+    }
+
+    #wednesday {
+        position: absolute;
+        height: 20px;
+        left: 10.28%;
+        right: 10.28%;
+        top: calc(50% - 20px/2 - 1468px);
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        display: flex;
+        align-items: center;
+
+        color: #000000;
+    }
+
+    .sarah_profile {
+        position: absolute;
+        width: 56px;
+        height: 56px;
+        left: 148px;
+        top: 572px;
+
+        background: url(resources/sarah_profile.png);
+        background-size: cover;
+
+        border-radius: 4px solid #FFFFFF;
+
+        filter: drop-shadow(0px 1px 1px rgba(0, 0, 0, 0.2));
+    }
+
+    .nanny_share_macbook {
+        position: absolute;
+        width: 304px;
+        height: 204px;
+        left: 28px;
+        top: 820px;
+
+        background: url(resources/nanny_share_macbook.png);
+        background-size: cover;
+    }
+
+    #share_your_home {
+        position: absolute;
+        height: 64px;
+        left: 19.72%;
+        right: 19.72%;
+        top: calc(50% - 64px/2 - 1102px);
+
+        font-weight: normal;
+        font-size: 22px;
+        line-height: 32px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #you_have_a_fantastic_home {
+        position: absolute;
+        left: 4.44%;
+        right: 4.44%;
+        top: 25.85%;
+        bottom: 67.09%;
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #ready_to_get_started {
+        position: absolute;
+        height: 24px;
+        left: 25.56%;
+        right: 28.33%;
+        top: calc(50% - 24px/2 - 710px);
+
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        text-decoration-line: underline;
+
+        color: #5E20A4;
+        }
+
+    .divider1 {
+        position: absolute;
+        width: 328px;
+        height: 0px;
+        left: 16px;
+        top: 1548px;
+
+        border: 2px solid #DFDFDF;
+        background-color: #DFDFDF;
+    }
+
+    #are_you_a_parent {
+        position: absolute;
+        left: 4.44%;
+        right: 4.44%;
+        top: 36.94%;
+        bottom: 61.59%;
+
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 32px;
+
+        display: flex
+        align-items: center;
+        text-align: center;
+
+    }
+
+    #leave_us_your_name {
+        position: absolute;
+        left: 4.44%;
+        right: 4.44%;
+        top: 38.77%;
+        bottom: 59.3%;
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    .Input1 {
+        position: absolute;
+        left: 4.44%;
+        right: 4.44%;
+        top: 41.43%;
+        bottom: 57.47%;
+
+        background-color: #FFFFFF;
+
+        border: 1px solid #DFDFDF;
+        box-sizing: border-box;
+        border-radius: 4px;
+    }
+
+    #your_name {
+        position: absolute;
+        height: 2px;
+        left: 10%;
+        right: 70.28%;
+        top: calc(50% - 20px/2 - 350px);
+
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+
+        display: flex;
+        align-items: center;
+
+        color: #3D3D3D;
+    }
+
+    .Input2 {
+        position: absolute;
+        left: 4.44%;
+        right: 4.44%;
+        top: 42.76%;
+        bottom: 56.14%;
+
+        background: #FFFFFF;
+
+        border: 1px solid #DFDFDF;
+        box-sizing: border-box;
+        border-radius: 4px;
+    }
+
+    .rounded_rectangle2 {
+        position: absolute;
+        left: 4.44%;
+        right: 4.44%;
+        top: 44.27%;
+        bottom: 54.63%;
+
+        background: #00C88C;
+        border-radius: 4px;
+    }
+
+    #send {
+        position: absolute;
+        height: 2px;
+        left: 45.28%;
+        right: 45%;
+        top: calc(50% - 20px/2 - 226px);
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .divider2 {
+        position: absolute;
+        width: 328px;
+        height: 0px;
+        left: 16px;
+        top: 2044px;
+
+        border: 2px solid #DFDFDF;
+        background-color: #DFDFDF;
+    }
+
+    #your_email {
+        position: absolute;
+        height: 2px;
+        left: 10%;
+        right: 70.83%;
+        top: calc(50% - 20px/2 - 292px);
+
+
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+
+        display: flex;
+        align-items: center;
+
+        color: #3D3D3D;
+    }
+
+    .shared_payments {
+        position: absolute;
+        width: 312px;
+        height: 230px;
+        left: 24px;
+        top: 2108px;
+
+        background: url(resources/shared_payments.png);
+        background-size: cover;
+    }
+
+    #shared_payments_simple {
+        position: absolute;
+        height: 64px;
+        left: 18.61%;
+        right: 18.61%;
+        top: calc(50% - 64px/2 + 228px);
+
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 32px;
+
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #3D3D3D;
+        }
+
+    #sometimes_it_is_hard {
+        position: absolute;
+        left: 4.44%;
+        right: 4.44%;
+        top: 56.32%;
+        bottom: 39.18%;
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #read_how_bridget’s_share {
+        position: absolute;
+        height: 48px;
+        left: 4.44%;
+        right: 4.44%;
+        top: calc(50% - 48px/2 + 520px);
+
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        text-align: center;
+        text-decoration-line: underline;
+
+        color: #5E20A4;
+    }
+
+    .divider3 {
+        position: absolute;
+        width: 328px;
+        height: 0px;
+        left: 16px;
+        top: 2790px;
+
+        border: 2px solid #DFDFDF;
+        background-color: #DFDFDF;    
+        }
+
+    #a_framework_built {
+        position: absolute;
+        height: 64px;
+        left: 16.39%;
+        right: 16.11%;
+        top: calc(50% - 64px/2 + 704px);
+
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 32px;
+
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #childcare_is_for_the_long_term {
+        position: absolute;
+        left: 4.44%;
+        right: 4.44%;
+        top: 67.23%;
+        bottom: 28.28%;
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+
+    }
+
+    #read_how_Hapu’s_tribal {
+        position: absolute;
+        height: 48px;
+        left: 4.44%;
+        right: 4.44%;
+        top: calc(50% - 48px/2 + 996px);
+
+
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-decoration-line: underline;
+
+        color: #5E20A4;
+    }
+
+    .divider4 {
+        position: absolute;
+        width: 328px;
+        height: 0px;
+        left: 16px;
+        top: 3266px;
+
+        border: 2px solid #DFDFDF;
+        background-color: #DFDFDF;
+    }
+
+    #coming_soon {
+        position: absolute;
+        height: 64px;
+        left: 4.44%;
+        right: 4.44%;
+        top: calc(50% - 64px/2 + 1300px);
+
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 32px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #with_the_Hapu_daily_diary {
+        position: absolute;
+        left: 4.44%;
+        right: 4.44%;
+        top: 80.89%;
+        bottom: 14.62%;
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    .daily_diary {
+        position: absolute;
+        width: 216px;
+        height: 96px;
+        left: 72px;
+        top: 3330px;
+
+        background: url(resources/daily_diary.png);
+        background-size: cover;
+    }
+
+    .vector {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 86.85%;
+        bottom: 0%;
+
+        background-color: #FFFFFF;'
+    }
+
+    #become_a_nanny_share {
+        position: absolute;
+        height: 32px;
+        left: 9.72%;
+        right: 9.44%;
+        top: calc(50% - 32px/2 + 1664px);
+
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 32px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #takes_less_than_5_minutes {
+        position: absolute;
+        height: 28px;
+        left: 7.78%;
+        right: 7.78%;
+        top: calc(50% - 28px/2 + 1694px);
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    .button {
+        position: absolute;
+        left: 7.78%;
+        right: 7.78%;
+        top: 89.69%;
+        bottom: 8.75%;
+
+        background: #5E20A4;
+        border-radius: 4px;
+    }
+
+    #calendar_icon {
+        position: absolute;
+        width: 32px;
+        height: 32px;
+        left: 52px;
+        top: 3932px;
+    }
+
+    #create_your_nanny_share2 {
+        position: absolute;
+        height: 2px;
+        left: 28.89%;
+        right: 18.06%;
+        top: calc(50% - 28px/2 + 1756px);
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        display: flex;
+        align-items: center;
+
+        color: #FFFFFF;
+    }
+
+    #takes_less_than_5_minutes2 {
+        position: absolute;
+        height: 1px;
+        left: 28.89%;
+        right: 30.28%;
+        top: calc(50% - 16px/2 + 1778px);
+
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 16px;
+
+        display: flex;
+        align-items: center;
+
+        color: #FFFFFF;
+    }
+
+    #or_browse_local_nanny-shares {
+        position: absolute;
+        height: 24px;
+        left: 18.33%;
+        right: 18.06%;
+        top: calc(50% - 24px/2 + 1836px);
+
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-decoration-line: underline;
+
+        color: #5E20A4;
+    }
+
+    #logo_gray {
+        position: absolute;
+        width: 63.95px;
+        height: 18.78px;
+        left: 148px;
+        top: 4078px;
+    }
+
+    #share_your_nanny {
+        position: absolute;
+        left: 20%;
+        right: 46.67%;
+        top: 94.73%;
+        bottom: 4.81%;
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #our_story2 {
+        position: absolute;
+        left: 62.22%;
+        right: 19.72%;
+        top: 94.73%;
+        bottom: 4.81%;
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #blog {
+        position: absolute;
+        left: 26.39%;
+        right: 65.28%;
+        top: 95.58%;
+        bottom: 3.96%;
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #terms_privacy {
+        position: absolute;
+        left: 43.61%;
+        right: 26.39%;
+        top: 95.58%;
+        bottom: 3.96%;
+
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+
+        text-align: center;
+
+        color: #3D3D3D;
+    }
+
+    #face {
+        position: absolute;
+        width: 45px;
+        height: 45px;
+        left: 97px;
+        top: 4215px;
+    }
+
+    #twitter {
+        position: absolute;
+        width: 45px;
+        height: 45px;
+        left: 158px;
+        top: 4215px;
+    }
+
+    #insta {
+        position: absolute;
+        width: 45px;
+        height: 45px;
+        left: 219px;
+        top: 4215px;
+    }
+
+    #Copyright {
+        position: absolute;
+        height: 16px;
+        left: 5px;
+        right: 6.67%;
+        top: calc(50% - 16px/2 + 2150px);
+
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 16px;
+
+        text-align: right;
+
+        color: #3D3D3D;
+        mix-blend-mode: normal;
+        opacity: 0.6;
+    }
+
+
+    .diviver5 {
+        position: absolute;
+        width: 328px;
+        height: 0px;
+        left: 16px;
+        top: 4300px;
+
+        border: 1px solid #DFDFDF;    
+    }
+
+}
+
